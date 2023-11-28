@@ -12,7 +12,7 @@ unzip
 bison
 pkg-config
 libevent-devel
-ncurses-fevel
+ncurses-devel
 gcc
 gcc-c++
 freetype-devel
