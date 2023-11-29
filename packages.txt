@@ -23,3 +23,5 @@ g++
 make
 automake
 gnome-tweaks
+ripgrep
+fd-find
